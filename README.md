@@ -58,6 +58,18 @@ searching with regular expressions, but using line numbers is good too.
 You can edit the buffer before making a selection. Changes will NOT be
 saved back to `~/.warp`.
 
+## NOTE:
+      You can also use the MOSH Command to SSH in the WARP File.  A modern replacement for Interactive SSH Terminals, 
+      designed for better performance and Session Continuity over Unreliable or High-Latency Networks. 
+      Maintains a Session while Switching Networks or Moving 
+      Locations. 
+      [MOSH](https://github.com/mobile-shell/mosh)
+
+      Debian/Ubuntu: apt install mosh
+      Fedora:        dnf install mosh
+      Arch Linux:    pacman -S mosh
+      CentOS:        yum install mosh
+      Alpine:        apk add tmux
 
 ## Cluster SSH
 
