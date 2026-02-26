@@ -59,9 +59,9 @@ You can edit the buffer before making a selection. Changes will NOT be
 saved back to `~/.warp`.
 
 ## NOTE:
-      You can also use the MOSH Command to SSH in the WARP File.  A modern replacement for Interactive SSH 
-      Terminals, designed for better performance and Session Continuity over Unreliable or High-Latency 
-      Networks. 
+      You can also use the MOSH Command to SSH in the WARP File.  A modern replacement for 
+      Interactive SSH Terminals, designed for better performance and Session Continuity over 
+      Unreliable or High-Latency Networks. 
       Maintains a Session while Switching Networks or Moving 
       Locations. 
       https://github.com/mobile-shell/mosh
