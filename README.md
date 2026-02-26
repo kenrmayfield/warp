@@ -63,12 +63,19 @@ saved back to `~/.warp`.
       designed for better performance and Session Continuity over Unreliable or High-Latency Networks. 
       Maintains a Session while Switching Networks or Moving 
       Locations. 
-      [MOSH](https://github.com/mobile-shell/mosh)
+      https://github.com/mobile-shell/mosh
 
       Debian/Ubuntu: apt install mosh
       Fedora:        dnf install mosh
       Arch Linux:    pacman -S mosh
       CentOS:        yum install mosh
+      Alpine:        apk add tmux
+      
+      CONSOLE ONLY with Multiple Sessions use TMUX:
+      Debian/Ubuntu: apt install tmux
+      Fedora:        dnf install tmux
+      Arch Linux:    pacman -S tmux
+      CentOS:        yum install epel-release && yum install tmux
       Alpine:        apk add tmux
 
 ## Cluster SSH
