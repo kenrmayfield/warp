@@ -62,7 +62,7 @@ saved back to `~/.warp`.
       You can add the MOSH Command to the WARP File to SSH.  A Modern Replacement for 
       Interactive SSH Terminals, designed for Better Performance and Session Continuity over 
       Unreliable or High-Latency Networks. 
-      Maintains a Session while Switching Networks or Moving Locations. 
+      Maintains a Session while Switching Networks or Moving to Other Locations. 
       https://github.com/mobile-shell/mosh
 
       Debian/Ubuntu: apt install mosh
